@@ -1,0 +1,4 @@
+ponto 1 = 26, 26
+
+largura = 179
+altura = 266
